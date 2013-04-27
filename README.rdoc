@@ -1,0 +1,6 @@
+== Rails API for the Pioneers game.
+
+
+Installation
+------------
+Copy config/database.yml.example to config/database.yml
